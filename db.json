@@ -1,0 +1,64 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 2,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 3,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 4,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 5,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 7,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "id": 8,
+      "title": "json-server",
+      "body": "typicode"
+    },
+    {
+      "title": "Net",
+      "body": "Hello",
+      "id": 10
+    },
+    {
+      "title": "dfgdfg",
+      "body": "dfgdfg",
+      "id": 11
+    },
+    {
+      "title": "ggg",
+      "body": "ggg",
+      "id": 12
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  }
+}

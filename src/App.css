@@ -1,0 +1,16 @@
+.App {
+  text-align: center;
+}
+
+.post__list {
+  width: 700px;
+  margin: 40px auto;
+}
+.post {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px;
+  margin: 5px;
+  border: 2px solid coral;
+  border-radius: 5px;
+}
